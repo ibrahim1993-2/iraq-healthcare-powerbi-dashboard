@@ -1,83 +1,55 @@
-Iraq Healthcare Infrastructure Trends (1960–2024) – Power BI Dashboard
-📌 Project Overview
+# 🏥 Iraq Healthcare Infrastructure Dashboard (1960–2024)
 
-This project analyzes Iraq’s healthcare infrastructure from 1960 to 2024 using publicly available datasets from the World Health Organization (WHO) and the World Bank.
-It visualizes long-term trends in:
+## 📌 Overview
+This project explores **Iraq’s healthcare infrastructure trends** over more than six decades (1960–2024).  
+Using **Power BI**, it visualizes changes in:
+- 🩺 Physicians per 1,000 people
+- 🛏 Hospital beds per 1,000 people
+- 👥 Population growth
 
-    Hospital beds per 1,000 people
+The goal is to provide **clear, interactive insights** into how Iraq’s healthcare capacity evolved over time.
 
-    Physicians per 1,000 people
+---
 
-    Population growth
+## 📊 Data Sources
+- 🌐 **World Health Organization (WHO)** – Healthcare statistics  
+- 🌍 **World Bank** – Population data  
 
-    Year-over-Year (YoY) changes
+---
 
-The dashboard provides a clear, data-driven view of how healthcare capacity has evolved alongside Iraq’s growing population.
-🛠 Tools & Technologies
+## ✨ Key Features
+- 📈 **Interactive dashboard** with slicers & filters  
+- 🔄 **Year-over-Year (YoY)** comparisons  
+- 🕵️ **Top N filtering** for focused analysis  
+- 🖱 **Dynamic tooltips** for additional context  
 
-    Power BI Desktop – Data modeling, DAX, interactive dashboards
+---
 
-    Power Query – Data cleaning and transformation
+## 🛠 Tools & Technologies
+- 💻 **Microsoft Power BI Desktop**  
+- 📐 **DAX (Data Analysis Expressions)**  
+- 🔄 **Power Query**  
+- 📑 **Excel** (initial data prep)  
 
-    DAX (Data Analysis Expressions) – Custom measures with error handling
+---
 
-    Excel 2016 – Initial data review and formatting
+## 📂 Repository Contents
+- `Healthcare Infrastructure Trends – Iraq (1960–2024).pbix` → Full Power BI report  
+- `Data/` → Source datasets  
+- `Screenshots/` → Dashboard preview images  
+- `Iraq Healthcare Dashboard – Visual Overview.pdf` → PDF summary of dashboard  
+- `README.md` → Project documentation (Markdown)  
+- `README.txt` → Project documentation (Plain text)  
 
-📂 Repository Contents
+---
 
-    Data/ – Source datasets (hospital beds, physicians, population)
+## 🚀 How to Use
+1. **Download** the `.pbix` file  
+2. **Open** in Power BI Desktop  
+3. Use **slicers & filters** to explore insights by year, category, or metric  
 
-    Screenshots/ – Dashboard preview images
+---
 
-    Healthcare Infrastructure Trends – Iraq (1960–2024).pbix – Main Power BI file
-
-    Iraq Healthcare Dashboard – Visual Overview.pdf – PDF of the dashboard
-
-    README.md – Project documentation
-
-🔍 Dashboard Features
-
-    Two interactive report pages
-
-    Dynamic slicers for filtering by year, metric, or category
-
-    YoY trend lines to highlight changes over time
-
-    Top N filtering using RANKX for focused analysis
-
-    Custom tooltips with contextual details
-
-📈 Key Insights
-
-    Physician availability fluctuated, often linked to political and economic changes.
-
-    Hospital bed capacity has not kept pace with population growth.
-
-    Significant YoY changes reveal key turning points in healthcare investment and policy.
-
-📊 Sample Visuals
-
-Dashboard – Page 1
-
-Dashboard – Page 2
-📚 Data Sources
-
-    World Bank Open Data – https://data.worldbank.org
-
-    WHO Global Health Observatory – https://www.who.int/data/gho
-
-🚀 How to Use
-
-    Download the .pbix file.
-
-    Open in Power BI Desktop.
-
-    Use slicers, filters, and tooltips to explore the data.
-
-👤 Author
-
-Ibrahim Alsaegh – Junior Data Analyst
-
-📍 Erbil, Iraq
-
-🔗 LinkedIn www.linkedin.com/in/ibrahim-alsaegh
+## 👤 Author
+**Ibrahim Alsaegh**  
+🔗 [LinkedIn](https://www.linkedin.com/in/ibrahim-alsaegh) | 💻 [GitHub](https://github.com/ibrahim1993-2)
