@@ -77,5 +77,7 @@ Dashboard – Page 2
 👤 Author
 
 Ibrahim Alsaegh – Junior Data Analyst
+
 📍 Erbil, Iraq
+
 🔗 LinkedIn www.linkedin.com/in/ibrahim-alsaegh
