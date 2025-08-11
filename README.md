@@ -1,8 +1,8 @@
 Iraq Healthcare Infrastructure Trends (1960–2024) – Power BI Dashboard
-📊 Project Overview
+📌 Project Overview
 
 This project analyzes Iraq’s healthcare infrastructure from 1960 to 2024 using publicly available datasets from the World Health Organization (WHO) and the World Bank.
-The dashboard visualizes long-term trends in:
+It visualizes long-term trends in:
 
     Hospital beds per 1,000 people
 
@@ -12,55 +12,49 @@ The dashboard visualizes long-term trends in:
 
     Year-over-Year (YoY) changes
 
-The goal is to provide a data-driven view of healthcare capacity and how it has evolved alongside Iraq’s population growth.
+The dashboard provides a clear, data-driven view of how healthcare capacity has evolved alongside Iraq’s growing population.
 🛠 Tools & Technologies
 
-    Power BI Desktop – Data modeling, DAX measures, and interactive dashboard creation.
+    Power BI Desktop – Data modeling, DAX, interactive dashboards
 
-    Power Query – Data cleaning, transformation, and shaping.
+    Power Query – Data cleaning and transformation
 
-    DAX (Data Analysis Expressions) – Calculated measures with error handling (returning 0 or "No data" instead of blanks).
+    DAX (Data Analysis Expressions) – Custom measures with error handling
 
-    Excel 2016 – Initial dataset review and formatting.
+    Excel 2016 – Initial data review and formatting
 
-📂 Repository Structure
+📂 Repository Contents
 
-├── Data/
-│   ├── hospital_beds_per_1000.csv
-│   ├── physicians_per_1000.csv
-│   ├── population.csv
-├── Screenshots/
-│   ├── Dashboard_Page_1.png
-│   ├── Dashboard_Page_2.png
-├── Healthcare Infrastructure Trends – Iraq (1960–2024).pbix
-├── Iraq Healthcare Dashboard – Visual Overview.pdf
-└── README.md
+    Data/ – Source datasets (hospital beds, physicians, population)
 
-🔍 Key Dashboard Features
+    Screenshots/ – Dashboard preview images
 
-    Two Interactive Pages
+    Healthcare Infrastructure Trends – Iraq (1960–2024).pbix – Main Power BI file
 
-        Page 1: Long-term healthcare trends with slicers.
+    Iraq Healthcare Dashboard – Visual Overview.pdf – PDF of the dashboard
 
-        Page 2: Comparative analysis of highest vs. lowest years.
+    README.md – Project documentation
 
-    Dynamic Slicers – Filter by year ranges, metrics, or categories.
+🔍 Dashboard Features
 
-    YoY Analysis – Trend lines showing annual changes.
+    Two interactive report pages
 
-    Top N Filtering – View the top N years for each metric using RANKX.
+    Dynamic slicers for filtering by year, metric, or category
 
-    Custom Tooltips – Hover over visuals to get additional context.
+    YoY trend lines to highlight changes over time
 
-📈 Insights from the Data
+    Top N filtering using RANKX for focused analysis
 
-    Physician availability saw notable fluctuations, with peaks and declines tied to political and economic events.
+    Custom tooltips with contextual details
 
-    Hospital bed capacity did not keep pace with population growth, indicating possible strain on healthcare services.
+📈 Key Insights
 
-    Significant YoY changes highlight key turning points in healthcare investment and policy shifts.
+    Physician availability fluctuated, often linked to political and economic changes.
 
-(For detailed insights, see the screenshots and PDF overview in this repository.)
+    Hospital bed capacity has not kept pace with population growth.
+
+    Significant YoY changes reveal key turning points in healthcare investment and policy.
+
 📊 Sample Visuals
 
 Dashboard – Page 1
@@ -68,24 +62,20 @@ Dashboard – Page 1
 Dashboard – Page 2
 📚 Data Sources
 
-    World Bank Open Data
-    https://data.worldbank.org
+    World Bank Open Data – https://data.worldbank.org
 
-    World Health Organization (WHO) Global Health Observatory
-    https://www.who.int/data/gho
+    WHO Global Health Observatory – https://www.who.int/data/gho
 
 🚀 How to Use
 
-    Download the .pbix file from this repository.
+    Download the .pbix file.
 
     Open in Power BI Desktop.
 
-    Explore filters, slicers, and tooltips to interact with the dashboard.
+    Use slicers, filters, and tooltips to explore the data.
 
-📌 Author
+👤 Author
 
 Ibrahim Alsaegh – Junior Data Analyst
-
-    📍 Erbil, Iraq
-
-    🔗 LinkedIn
+📍 Erbil, Iraq
+🔗 LinkedIn
