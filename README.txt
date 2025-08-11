@@ -77,4 +77,5 @@ Data Source:
 
     Ibrahim Alsaegh
     Beginner Data Analyst | Power BI Explorer  
-    LinkedIn   (https://www.linkedin.com/in/ibrahim-alsaegh-4b2163367/)
+
+    LinkedIn   (https://www.linkedin.com/in/ibrahim-alsaegh)
