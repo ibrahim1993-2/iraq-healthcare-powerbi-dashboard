@@ -78,4 +78,4 @@ Dashboard – Page 2
 
 Ibrahim Alsaegh – Junior Data Analyst
 📍 Erbil, Iraq
-🔗 LinkedIn
+🔗 LinkedIn www.linkedin.com/in/ibrahim-alsaegh
